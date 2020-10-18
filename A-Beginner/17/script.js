@@ -3,10 +3,10 @@
 function isTanja(x){
     if(x === 'Tanja'){
         return true
-    } else(x !== 'Tanja'){
+    } else(x !== 'Tanja')
         return false
     }
-}
+
 
 console.log(isTanja('Tim'))
 
