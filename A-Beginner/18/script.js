@@ -3,9 +3,11 @@
 function check(x = y){
     if(x === y){
         return true
-    } else(x !== y){
+    } else(x !== y)
         return false
     }
-}
+
+const x = "hejsan"
+const y = "hejsam"
 
 
